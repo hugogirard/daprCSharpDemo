@@ -1,0 +1,12 @@
+== APP - checkout == Order passed: Order { OrderId = 1 }
+== APP - checkout == Order passed: Order { OrderId = 2 }
+== APP - checkout == Order passed: Order { OrderId = 3 }
+== APP - checkout == Order passed: Order { OrderId = 4 }
+== APP - checkout == Order passed: Order { OrderId = 5 }
+== APP - checkout == Order passed: Order { OrderId = 6 }
+== APP - checkout == Order passed: Order { OrderId = 7 }
+== APP - checkout == Order passed: Order { OrderId = 8 }
+== APP - checkout == Order passed: Order { OrderId = 9 }
+== APP - checkout == Order passed: Order { OrderId = 10 }
+
+termination signal received: shutting down
