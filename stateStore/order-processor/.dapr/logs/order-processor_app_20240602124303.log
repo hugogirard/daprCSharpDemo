@@ -1,0 +1,17 @@
+== APP - order-processor == Saving Order: Order { orderId = 1 }
+== APP - order-processor == Getting Order: Order { orderId = 1 }
+== APP - order-processor == Deleting Order: Order { orderId = 1 }
+== APP - order-processor == Saving Order: Order { orderId = 2 }
+== APP - order-processor == Getting Order: Order { orderId = 2 }
+== APP - order-processor == Deleting Order: Order { orderId = 2 }
+== APP - order-processor == Saving Order: Order { orderId = 3 }
+== APP - order-processor == Getting Order: Order { orderId = 3 }
+== APP - order-processor == Deleting Order: Order { orderId = 3 }
+== APP - order-processor == Saving Order: Order { orderId = 4 }
+== APP - order-processor == Getting Order: Order { orderId = 4 }
+== APP - order-processor == Deleting Order: Order { orderId = 4 }
+== APP - order-processor == Saving Order: Order { orderId = 5 }
+== APP - order-processor == Getting Order: Order { orderId = 5 }
+== APP - order-processor == Deleting Order: Order { orderId = 5 }
+
+termination signal received: shutting down

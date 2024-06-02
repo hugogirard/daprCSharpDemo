@@ -1,0 +1,25 @@
+== APP - checkout-http == 
+== APP - checkout-http == > checkout@1.0.0 start
+== APP - checkout-http == > node index.js
+== APP - checkout-http == 
+== APP - checkout-http == (node:25856) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+== APP - checkout-http == (Use `node --trace-warnings ...` to show where the warning was created)
+== APP - checkout-http == C:\serviceinvocation\pubsub\http\checkout\index.js:1
+== APP - checkout-http == import axios from "axios";
+== APP - checkout-http == ^^^^^^
+== APP - checkout-http == 
+== APP - checkout-http == SyntaxError: Cannot use import statement outside a module
+== APP - checkout-http ==     at internalCompileFunction (node:internal/vm:77:18)
+== APP - checkout-http ==     at wrapSafe (node:internal/modules/cjs/loader:1290:20)
+== APP - checkout-http ==     at Module._compile (node:internal/modules/cjs/loader:1342:27)
+== APP - checkout-http ==     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+== APP - checkout-http ==     at Module.load (node:internal/modules/cjs/loader:1212:32)
+== APP - checkout-http ==     at Module._load (node:internal/modules/cjs/loader:1028:12)
+== APP - checkout-http ==     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+== APP - checkout-http ==     at node:internal/main/run_main_module:28:49
+== APP - checkout-http == 
+== APP - checkout-http == Node.js v21.6.1
+The App process exited with error code: exit status 1
+
+termination signal received: shutting down
+Error exiting App: exit status 1

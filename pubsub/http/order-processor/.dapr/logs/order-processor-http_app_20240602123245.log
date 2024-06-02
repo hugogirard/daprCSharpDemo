@@ -1,0 +1,25 @@
+== APP - order-processor-http == 
+== APP - order-processor-http == > order-processor@1.0.0 start
+== APP - order-processor-http == > node index.js
+== APP - order-processor-http == 
+== APP - order-processor-http == (node:28588) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+== APP - order-processor-http == (Use `node --trace-warnings ...` to show where the warning was created)
+== APP - order-processor-http == C:\serviceinvocation\pubsub\http\order-processor\index.js:1
+== APP - order-processor-http == import express from 'express';
+== APP - order-processor-http == ^^^^^^
+== APP - order-processor-http == 
+== APP - order-processor-http == SyntaxError: Cannot use import statement outside a module
+== APP - order-processor-http ==     at internalCompileFunction (node:internal/vm:77:18)
+== APP - order-processor-http ==     at wrapSafe (node:internal/modules/cjs/loader:1290:20)
+== APP - order-processor-http ==     at Module._compile (node:internal/modules/cjs/loader:1342:27)
+== APP - order-processor-http ==     at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+== APP - order-processor-http ==     at Module.load (node:internal/modules/cjs/loader:1212:32)
+== APP - order-processor-http ==     at Module._load (node:internal/modules/cjs/loader:1028:12)
+== APP - order-processor-http ==     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+== APP - order-processor-http ==     at node:internal/main/run_main_module:28:49
+== APP - order-processor-http == 
+== APP - order-processor-http == Node.js v21.6.1
+The App process exited with error code: exit status 1
+
+termination signal received: shutting down
+Error exiting App: exit status 1

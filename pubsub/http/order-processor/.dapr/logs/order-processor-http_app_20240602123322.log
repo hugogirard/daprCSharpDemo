@@ -1,0 +1,11 @@
+== APP - order-processor-http == 
+== APP - order-processor-http == > order-processor@1.0.0 start
+== APP - order-processor-http == > node index.js
+== APP - order-processor-http == 
+== APP - order-processor-http == Subscriber received: { orderId: 1 }
+== APP - order-processor-http == Subscriber received: { orderId: 2 }
+== APP - order-processor-http == Subscriber received: { orderId: 3 }
+== APP - order-processor-http == Subscriber received: { orderId: 4 }
+== APP - order-processor-http == Subscriber received: { orderId: 5 }
+
+termination signal received: shutting down

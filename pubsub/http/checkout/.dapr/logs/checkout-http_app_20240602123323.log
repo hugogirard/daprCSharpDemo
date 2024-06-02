@@ -1,0 +1,11 @@
+== APP - checkout-http == 
+== APP - checkout-http == > checkout@1.0.0 start
+== APP - checkout-http == > node index.js
+== APP - checkout-http == 
+== APP - checkout-http == Published data: {"orderId":1}
+== APP - checkout-http == Published data: {"orderId":2}
+== APP - checkout-http == Published data: {"orderId":3}
+== APP - checkout-http == Published data: {"orderId":4}
+== APP - checkout-http == Published data: {"orderId":5}
+
+termination signal received: shutting down
